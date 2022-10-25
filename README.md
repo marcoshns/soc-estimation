@@ -5,8 +5,8 @@ One of the most important features of a BMS is the accurate estimation of the SO
 The SOC is defined as the ratio between the remaining energy capacity and the actual energy capacity of the battery. The remaining energy is the maximum available capacity in the battery after a specific period of time, and the degradation of electrochemical properties caused by cycling and corrosion has influence in its value. The actual energy is the maximum possible limit of charge in the battery obtained during the initial charge and discharge cycle considering different environmental conditions. Battery SOC does the similar operation of the fuel gauge in a gasoline-driven vehicle which indicates how much energy is left inside a battery to power a vehicle.
 
 
-![](images/soc_battery_modeling.png)
+![](images/soc_battery_modeling.PNG)
 
-![](images/udds_charging_profile.png)
+![](images/udds_charging_profile.PNG)
 
-![](images/SMO_tracking_soc.png)
+![](images/SMO_tracking_soc.PNG)
